@@ -39,4 +39,8 @@ J'ai créer cette app Python pour mes besoins perso et elle marche parfaitement 
 - Vous pouvez également modifier le mot de passe administrateur en modifiant le code source du programme.
 - Pour quitter l'application, fermez simplement la fenêtre principale.
 
+ ## Ajouts de raccourcis ➕
+
+- Pour rajouter un raccourcit il vous faudra la racine de l'application que vous allez ouvrir, ensuite appuyer sur "Ajout d'un raccourci" et mettre `nomduraccourci,raccineduraccourci` (par exemple dans mon cas : Github,C:\Users\Ours\OneDrive\Documents\Intranet\Github).
+- Pour plus d'info sur comment créer un raccourcit pour un navigateur : [voici de l'aide](https://support.google.com/chrome_webstore/answer/3060053?hl=fr).
 Cette intranet ne sera pas maintenue à jour et il est même déconceiller de l'utiliser dans de grosses entreprises car celui-ci n'est pas le plus sécurisé, mais pour faire un mini intranet sur votre PC en local c'est ce qu'il vous faut ! 😌
