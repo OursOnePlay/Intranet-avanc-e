@@ -2,6 +2,8 @@
 
 J'ai créer cette app Python pour mes besoins perso et elle marche parfaitement bien ! L'interface n'est pas moderne mais le principal c'est le fonctionnement, je vous autorise à modifier cette intranet et en faire des versions plus modernes ou avec des fonctions en plus.
 
+![Exemple :)](captured'écranv0.1.png)
+
 ## Installation Python et Modules Requis
 
 1. **Installation de Python**: 🐍
