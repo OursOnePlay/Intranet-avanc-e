@@ -1,2 +1,2 @@
-# Intranet-avanc-e
+# Intranet-avancée
 Intranet pour pro
