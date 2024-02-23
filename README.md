@@ -23,11 +23,11 @@ J'ai créer cette app Python pour mes besoins perso et elle marche parfaitement 
 ### Changement du Mot de Passe Administrateur 🛠️
 - Le mot de passe administrateur est défini dans la fonction `delete_shortcut()` du code.
 - Vous pouvez le changer en modifiant la valeur de la variable `code`.
-- Par défaut, le mot de passe est défini comme `"motdepassepardefaut"`.
+- Par défaut, le mot de passe est défini comme `"motdepassepardefaut"` à la `ligne 87`.
 
 ### Modification des Raccourcis d'Images 🖼️
 - Les images sont chargées à partir d'un répertoire spécifique dans la fonction `update_image()` du code.
-- Vous pouvez modifier le chemin du répertoire où se trouvent les images en changeant la valeur de la variable `directory` ligne 200 et 206.
+- Vous pouvez modifier le chemin du répertoire où se trouvent les images en changeant la valeur de la variable `directory` à la `ligne 138` et à la `ligne 142`.
 - Assurez-vous que les images sont au format PNG et placez-les dans le répertoire spécifié.
 
 ## Utilisation 💻
